@@ -1,2 +1,3 @@
-This project is an e-commerce website built using HTML and CSS. It showcases the implementation of fundamental web development skills to create an online platform for buying and selling products. It demonstrates proficiency in front-end web development and design.
-Here's my Website Live Link:https://beginner-ecommerce-website.vercel.app/
+Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. 
+This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
+Live App Demo : https://mern-shop-abxs.onrender.com/
